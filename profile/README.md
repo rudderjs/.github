@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rudderjs/rudder/main/logo.png" alt="RudderJS" width="220" />
+  <img src="https://raw.githubusercontent.com/rudderjs/rudder/main/logo.png" alt="Rudder" width="220" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## What we build
 
-**RudderJS** is a batteries-included, modular TypeScript framework for Node.js. Controller-returned SSR views through [Vike](https://vike.dev) + [Vite](https://vitejs.dev), AI-native agents, real-time collab, service-oriented architecture — all in one monorepo, all opt-in.
+**Rudder** is a batteries-included, modular TypeScript framework for Node.js. Controller-returned SSR views through [Vike](https://vike.dev) + [Vite](https://vitejs.dev), AI-native agents, real-time collab, service-oriented architecture — all in one monorepo, all opt-in.
 
 45 first-party packages. Start with 3, bolt on what you need.
 
@@ -40,7 +40,7 @@ pnpm dev
 | Project | Description |
 |---|---|
 | **[rudder](https://github.com/rudderjs/rudder)** | The framework monorepo — 45 `@rudderjs/*` packages across routing, ORM, auth, queue, AI, real-time, and more. |
-| **[create-rudder-app](https://www.npmjs.com/package/create-rudder-app)** | Interactive scaffolder. Pick your database, frontend, and packages — ship in 60 seconds. |
+| **[create-rudder](https://www.npmjs.com/package/create-rudder)** | Interactive scaffolder. Pick your database, frontend, and packages — ship in 60 seconds. |
 
 ---
 
